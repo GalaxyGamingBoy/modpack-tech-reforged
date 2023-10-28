@@ -113,10 +113,9 @@ World Exists: {sys.argv[1] != "-1"}
 
 if __name__ == "__main__":
     if len(sys.argv) == 3:
-        # create_server()
-        # get_server()
-        # extract_server()
-        os.chdir("./.minecraft-server/server/")
+        create_server()
+        get_server()
+        extract_server()
         install_mods()
         discover_portip()
         change_server_properties()
