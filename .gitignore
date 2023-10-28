@@ -1,3 +1,6 @@
 *.zip
 *.mrpack
 tmp/
+.minecraft-server/
+.env
+*.tmp
