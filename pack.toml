@@ -1,0 +1,13 @@
+name = "Tech [Reforged]"
+author = "Marios Mitsios"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9d9e59a1e7a726aa4697229f3797d5476c772ab0eff245866b7f261c1767f10b"
+
+[versions]
+forge = "43.3.2"
+minecraft = "1.19.2"
