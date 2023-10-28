@@ -50,10 +50,10 @@ def discover_portip():
     print("Discovering IP & Port...")
     if "SF_HOSTNAME" in os.environ:
         with open("/config/self/reverse_port", "r") as f:
-            PORT = f.read()
+            PORT = f.read().strip()
 
         with open("/config/self/reverse_ip", "r") as f:
-            IP = f.read()
+            IP = f.read().strip()
     else:
         IP = socket.gethostbyname(socket.gethostname())
     print(f"Discovered {IP}:{PORT}!")
