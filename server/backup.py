@@ -40,6 +40,8 @@ def notify(token, chat_id, id):
 DateTime: {datetime.now()}
 Server: https://pixeldrain.com/
 ID: {id}
+
+View: https://pixeldrain.com/u/{id}
 Download: https://pixeldrain.com/api/file/{id}?download
 """,
         },
