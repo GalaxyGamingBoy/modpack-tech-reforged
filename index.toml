@@ -195,6 +195,11 @@ hash = "6a55f10fd7022a12d7aeec5f28715cf108333c55ec3fd188a20eddde2e745376"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-lights.pw.toml"
+hash = "c904616dcf20ecec8793dd8f736f878219332c82cc728ba430705a74b06f995a"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "2df773e7b7659f53640f79e1e2b2e1de0df20277dc61de90a1d12881116cdc49"
 metafile = true
