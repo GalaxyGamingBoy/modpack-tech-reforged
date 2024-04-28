@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "TechReforged.prism"
+hash = "0161b02115efc937d9d292655c5b847f64a57739028d74b6115e355852d5e296"
+
+[[files]]
+file = "generateRelease.py"
+hash = "5a962b5b4b40d13025cb09ebb5d487eef4e15ebce5d5713489da4dbfcc68f789"
+
+[[files]]
 file = "logo.png"
 hash = "ecf80108b920c88db17fa70fa566f14084b90b7acef37d239c379aa7d5df0531"
 
@@ -35,6 +43,11 @@ hash = "d444adbd1b887592d34e3f79f38a5fdab0aa8beb48cad5b92d9a5ad62905e82b"
 metafile = true
 
 [[files]]
+file = "mods/additional-enchanted-miner.pw.toml"
+hash = "a2525ca042611cd49fc9a952cdde32696dffa78d2e18607e473ce9c19468f477"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "1be3c626f8c8e445e57444f2559dc590edafc75b6c8c18d4599703dbc614a7e8"
 metafile = true
@@ -60,8 +73,23 @@ hash = "e81baa549b913cf7d30a730d18846ff41aa833928328e3e1f2ec0686d815cd47"
 metafile = true
 
 [[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "9fce81e32e0d1a393173243ccf4929ac7ab68ab3b3146e4007c01ef68e4c1a08"
+metafile = true
+
+[[files]]
+file = "mods/autoreglib.pw.toml"
+hash = "2264acfbd388023f4c11b06b18e1a8b79b2b078e9fbf4cc38b31e4cb31c653dd"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "6c7ee4389584b656fc4d835050fe8af5b6ca85965f4a8b21c72e1194c1b7fe89"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "117028aee504fb12600efb5bff26e8a3ee13d472ebe7e209ee122112b98fdb8e"
 metafile = true
 
 [[files]]
@@ -90,6 +118,11 @@ hash = "8387b7fc483dd1d10fcad61418a6da117a7c55d8ea8f6881cd06c867544ec52b"
 metafile = true
 
 [[files]]
+file = "mods/building-gadgets.pw.toml"
+hash = "d07aad009ac2e58a667d5893e862ab362db02e1ba104aa2dfd65337afb3551e6"
+metafile = true
+
+[[files]]
 file = "mods/catalogue.pw.toml"
 hash = "b3c16f0a62d3cd60e7db213c748920aa03a8dfd9d731a2723f0dcd59515b562b"
 metafile = true
@@ -101,12 +134,17 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "2c3ddac643593c3dec5bdad4a4ee6d10b62430409ee1c558ce3c5cbed9f40700"
+hash = "fe2b1cb8e815ed0fb5fbc46cb808411237f1694dce52f87242a1798fffcfc558"
 metafile = true
 
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "5880c81df1af395ec3762eff4e98c78f7b75e62db67e1d191a1772d79aabc073"
+metafile = true
+
+[[files]]
+file = "mods/codechicken-lib.pw.toml"
+hash = "1c0230c98b9991109c67daa161cc49c5ae8a9c6c5c91ed376881f29b19e943dd"
 metafile = true
 
 [[files]]
@@ -127,6 +165,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "a94bec93c6e2f350d4bfd94d6f557fca51ef4358aa4a714e87816243537a6623"
+metafile = true
+
+[[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "4cb1daa65effd0a0c3aedc940daff42cc4c4c921b0c6135764e8370b121273d9"
 metafile = true
 
 [[files]]
@@ -195,8 +238,18 @@ hash = "6a55f10fd7022a12d7aeec5f28715cf108333c55ec3fd188a20eddde2e745376"
 metafile = true
 
 [[files]]
+file = "mods/dungeon-crawl.pw.toml"
+hash = "d30f94aab18d9ad671e52d77c8b9b081c46d9084a7e8177d03b4723e1e094a4e"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-lights.pw.toml"
 hash = "c904616dcf20ecec8793dd8f736f878219332c82cc728ba430705a74b06f995a"
+metafile = true
+
+[[files]]
+file = "mods/ender-storage.pw.toml"
+hash = "0a5d2033fd2fff7dbed423f6b9f51b9283387ae9fea142063d79242e480e4456"
 metafile = true
 
 [[files]]
@@ -232,6 +285,16 @@ metafile = true
 [[files]]
 file = "mods/immersive-engineering.pw.toml"
 hash = "61b17065b73cdefcbdc21a3101b9bbff8896df219ae7ad12027c700728c6a2a9"
+metafile = true
+
+[[files]]
+file = "mods/immersive-portals-neoforge.pw.toml"
+hash = "753ddbcff3d6b4738c72469a0e9eb6c5128af8b19998910f129d2277318e2bb6"
+metafile = true
+
+[[files]]
+file = "mods/industrial-foregoing.pw.toml"
+hash = "b3142a5c8fcb9dc49628a16892687d0e5d67e595355d0827dd76be0e80635241"
 metafile = true
 
 [[files]]
@@ -310,6 +373,11 @@ hash = "b25f53c184cd5af0d16d0cef174cf9f3cde0410f178de36b1a582b417ba37763"
 metafile = true
 
 [[files]]
+file = "mods/mantle.pw.toml"
+hash = "b855d80b09ae840d9a17ab354c704828979d587c040a3111b5114fe4ef7c7602"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-additions.pw.toml"
 hash = "4a3bba5ee25abee71e11f41208f0ae7f09d48dbd43099b52ef1750532d0247fe"
 metafile = true
@@ -356,12 +424,27 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "e0cbe5dbdbece52f9471e318cabec09569b95c35ed72e568b015e2d9c5d3c9dc"
+hash = "8895f6fc1d8d8280539f3e381f3b0316d912600d7a8dda216ce83466abaa5aee"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "e410d6e30b87e0e22db10ddf909167ad1fb9b53261fc05fc140d4deb5bfe5ea9"
 metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "4792b5508f6583035d60a5d681d1f05bb52acef432fb47f132bcfb1b53d518f6"
+metafile = true
+
+[[files]]
+file = "mods/quark-oddities.pw.toml"
+hash = "90560337b2ad996abe8d1fb74130972b83ff9954d1742bbcc1a8588aa5628528"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "c683cb91014392a4478573dcb54a22a64fdae1c04f998cd95b2e39bf313bdf1d"
 metafile = true
 
 [[files]]
@@ -387,6 +470,16 @@ metafile = true
 [[files]]
 file = "mods/rubidium.pw.toml"
 hash = "3ff8c8b3282ec0c0a4ce16853acf5b7dd23297d4b557b280668b459739c709d0"
+metafile = true
+
+[[files]]
+file = "mods/scalable-cats-force.pw.toml"
+hash = "c76ff2646543643a4a020de957878ba3884d3882c12e772ae3c00500e5e28941"
+metafile = true
+
+[[files]]
+file = "mods/silent-lib.pw.toml"
+hash = "f89a5223c9286f0d2efd403fa8304d6e039c7442a71e0eda55c5165d5e3c7f24"
 metafile = true
 
 [[files]]
@@ -455,10 +548,73 @@ hash = "b7405d5625b7967e6a950647f9a77cb26b909827e7cb1cdd4927d2c3d007b5a5"
 metafile = true
 
 [[files]]
+file = "mods/tinkers-construct.pw.toml"
+hash = "f0637ced9c504f8854abd833901f5edf0e31dcaed1a824ec0b0b4846343c3edb"
+metafile = true
+
+[[files]]
+file = "mods/titanium.pw.toml"
+hash = "3b881101a79a03c80da2b64762613aa79273b7f05560db23cd08646e62783bea"
+metafile = true
+
+[[files]]
+file = "mods/torchmaster.pw.toml"
+hash = "abf3caed290977a3943d18ba395ad9c8d363c73b3cf74aed7aa5ad8c374f2e18"
+metafile = true
+
+[[files]]
 file = "mods/zerocore.pw.toml"
 hash = "4740df6a935f9109871109a74dc58a004d399931d6ebe3eca44f1c1f08314e8d"
 metafile = true
 
 [[files]]
+file = "server/backup.py"
+hash = "1f48cbde729c9e387cc682dd85cfbb8866e9a68f2caedfa0d4bdf4a199a6237a"
+
+[[files]]
+file = "server/config/voicechat/voicechat-server.properties"
+hash = "c12e8407f0899100bafb182afbc41daf45fb825b7fd233788d0f19211c12c5c0"
+
+[[files]]
+file = "server/createTunnel.py"
+hash = "78bab83bc20e8e7a22ea178ca7204307886255c7b943fac3db6acd12fb01d82a"
+
+[[files]]
+file = "server/eula.txt"
+hash = "80c8599e70c525af0632d939df84962cc9c12af65ea339118a894526cbe1be82"
+
+[[files]]
+file = "server/installForge.sh"
+hash = "6216f511201d3dad1aaee5f7e061d54feead81bbd544bd6c9a7160fc9e9177ad"
+
+[[files]]
+file = "server/installMods.sh"
+hash = "d58db8ce544f64f05fe41f9e2f31e172cd7e3c425eaf3b5ad94817ab24783eea"
+
+[[files]]
+file = "server/logo.png"
+hash = "7132d58016ea11f7ee6ac59911eea71e4a8dcf0b29332cb8b35f30aba79f9cc6"
+
+[[files]]
+file = "server/mods/entityculling-forge-1.6.1-mc1.19.2.jar"
+hash = "14686b41719756b50dd8d90e4d1754f752e5c370c99a280df00ecc64baf63534"
+
+[[files]]
+file = "server/run.py"
+hash = "5a8fc7d40903b291926c5066c72864f3ae90d5838c84e9fb888f8ad433651465"
+
+[[files]]
+file = "server/server.properties"
+hash = "04a2cb08ce45c4716f21584ecf9c8976306d787258d050d7b88b87b0c59517de"
+
+[[files]]
+file = "server/user_jvm_args.txt"
+hash = "16a1467479473453053334b49e50db79373468e288916d0e0091627ee5b9e9a8"
+
+[[files]]
 file = "servers.dat"
 hash = "637dba61888bc3bd7a18d53b3ac4054717cd512df667a0556ecb00b880f06f76"
+
+[[files]]
+file = "setupServer.py"
+hash = "ddb5494445fd1202f1fb4e95a820ca886989332e412bda55bb58278fe7a4dddc"
